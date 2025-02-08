@@ -1,5 +1,5 @@
 # AI-Based DDoS Protection System
-
+![DDoS Protection System](https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=2070)
 An intelligent DDoS (Distributed Denial of Service) protection system that uses AI/ML techniques to detect and mitigate potential attacks. The system employs multiple layers of protection including traffic analysis, IP reputation checking, custom CAPTCHA challenges, and machine learning-based pattern detection.
 
 ## Features
