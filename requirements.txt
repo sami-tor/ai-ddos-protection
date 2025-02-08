@@ -1,0 +1,4 @@
+psutil==5.9.8
+pywin32==306
+requests==2.31.0
+scapy==2.5.0
